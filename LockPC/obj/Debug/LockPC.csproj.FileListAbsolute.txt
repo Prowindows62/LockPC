@@ -1,0 +1,7 @@
+c:\users\pw\source\repos\LockPC\LockPC\obj\Debug\LockPC.csprojAssemblyReference.cache
+c:\users\pw\source\repos\LockPC\LockPC\obj\Debug\LockPC.csproj.CoreCompileInputs.cache
+c:\users\pw\source\repos\LockPC\LockPC\bin\Debug\LockPC.exe.config
+c:\users\pw\source\repos\LockPC\LockPC\bin\Debug\LockPC.exe
+c:\users\pw\source\repos\LockPC\LockPC\bin\Debug\LockPC.pdb
+c:\users\pw\source\repos\LockPC\LockPC\obj\Debug\LockPC.exe
+c:\users\pw\source\repos\LockPC\LockPC\obj\Debug\LockPC.pdb
